@@ -28,17 +28,6 @@
           },
           "pinned": true
         }
-      },
-      {
-        "id": "6709b0e81cfc76c6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,7 +102,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6709b0e81cfc76c6",
+  "active": "4fcbf549153e9429",
   "lastOpenFiles": [
     "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
     "Reunião.md",
