@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4fcbf549153e9429",
+        "id": "290eea38ae322ac6",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -77,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fcbf549153e9429",
+  "active": "290eea38ae322ac6",
   "lastOpenFiles": [
     "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
     "Images/LossSideBySide.png",
