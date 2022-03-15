@@ -9,19 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
+            "file": "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7d2522ee58265d0e",
+        "id": "641c258188fda3c0",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
+                "file": "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +99,15 @@
   },
   "active": "290eea38ae322ac6",
   "lastOpenFiles": [
-    "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
-    "Images/LossSideBySide.png",
+    "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
+    "AST - Logbook/15-03-2022/15-03-2022.md",
     "AST - Logbook/16-03-2022/16-03-2022 - Notas.md",
     "AST - Logbook/16-03-2022/16-03-2022.md",
-    "AST - Logbook/15-03-2022/15-03-2022.md",
-    "AST - Logbook/18-03-2022/18-03-2022.md",
-    "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
+    "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
     "Tasks.md",
-    "README.md",
-    "Reunião.md"
+    "AST - Logbook/04-03-2022/04-03-2022 - Notas.md",
+    "LossSideBySide.png?raw=True.md",
+    "Images/LossSideBySide.png",
+    "AST - Logbook/18-03-2022/18-03-2022.md"
   ]
 }
