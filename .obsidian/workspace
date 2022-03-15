@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,6 +104,7 @@
   "active": "4fcbf549153e9429",
   "lastOpenFiles": [
     "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
+    "README.md",
     "Reunião.md",
     "Curso.md",
     "AST - Logbook/14-03-2022/14-03-2022.md",
@@ -112,7 +112,6 @@
     "Notas.md",
     "AST - Logbook/04-03-2022/04-03-2022 - Notas.md",
     "AST - Logbook/18-03-2022/18-03-2022 - Notas.md",
-    "Active Space Technologies.md",
-    "AST - Logbook/04-03-2022/04-03-2022.md"
+    "Active Space Technologies.md"
   ]
 }
