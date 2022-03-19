@@ -24,17 +24,6 @@
             "mode": "preview"
           }
         }
-      },
-      {
-        "id": "8ae454a1c5552a2e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tasks.md",
-            "mode": "preview"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -111,14 +100,14 @@
   "active": "290eea38ae322ac6",
   "lastOpenFiles": [
     "AST - Logbook/18-03-2022/18-03-2022 - Notas.md",
+    "Pasted image 20220319002839.png",
+    "AST - Logbook/17-03-2022/17-03-2022 - Notas.md",
     "AST - Logbook/04-03-2022/04-03-2022 - Notas.md",
     "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
+    "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
+    "AST - Logbook/16-03-2022/16-03-2022 - Notas.md",
     "Tasks.md",
     "Notas.md",
-    "AST - Logbook/16-03-2022/16-03-2022 - Notas.md",
-    "AST - Logbook/17-03-2022/17-03-2022 - Notas.md",
-    "AST - Logbook/17-03-2022/17-03-2022.md",
-    "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
-    "Reunião.md"
+    "AST - Logbook/17-03-2022/17-03-2022.md"
   ]
 }
