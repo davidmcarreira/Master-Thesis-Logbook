@@ -1,11 +1,11 @@
 * linguist-vendored
 
-*.md linguist-vendored = false
-*.md linguist-detectable =true
+*.md linguist-vendored = true
+*.md linguist-detectable = true
 *.md linguist-language = Markdown
 *.md linguist-documentation = false
 
-*.py linguist-vendored = false
-*.py linguist-detectable =true
+*.py linguist-vendored = true
+*.py linguist-detectable = true
 *.py linguist-language = Python
 *.py linguist-documentation = false
