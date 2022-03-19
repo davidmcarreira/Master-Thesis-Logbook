@@ -1,5 +1,11 @@
-*.md linguist-detectable = true
-*.md linguist-language = Markdown
+*.js linguist-vendored
+*.json linguist-vendored
+*.css linguist-vendored
 
-*.ipynb linguist-detectable = true
-*.ipynb linguist-language = Python
+*.md linguist-detectable=true
+*.md linguist-language=Markdown
+*.md linguist-documentation=false
+
+*.ipynb linguist-detectable=true
+*.ipynb linguist-language=Python
+*.ipynb linguist-documentation=false
