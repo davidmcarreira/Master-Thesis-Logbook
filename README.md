@@ -1,12 +1,10 @@
 # README
-Diary of the work developed for my Master Thesis (Title).
+Diary of the work developed for my Master Thesis (Title).  
 Daily-ish updates.
 
-<br>
 
 All the content is stored in the [AST - Logbook](https://github.com/davidmcarreira/Carreira/tree/main/AST%20-%20Logbook) folder, the [Tags](https://github.com/davidmcarreira/Carreira/tree/main/Tags) folder purpose is solely for organization.
 
-<br>
 
 #
 
