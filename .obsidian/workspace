@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/18-03-2022/18-03-2022 - Notas.md",
+            "file": "AST - Logbook/19-03-2022/19-03-2022 - Notas.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/18-03-2022/18-03-2022 - Notas.md",
+            "file": "AST - Logbook/19-03-2022/19-03-2022 - Notas.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1a73c81b366b016",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AST - Logbook/18-03-2022/18-03-2022 - Notas.md",
+                "file": "AST - Logbook/19-03-2022/19-03-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "290eea38ae322ac6",
+  "active": "071de4685d751222",
   "lastOpenFiles": [
+    "AST - Logbook/19-03-2022/19-03-2022 - Notas.md",
     "AST - Logbook/18-03-2022/18-03-2022 - Notas.md",
+    "AST - Logbook/19-03-2022/19-03-2022.md",
+    "Active Space Technologies.md",
     "Pasted image 20220319002839.png",
     "AST - Logbook/17-03-2022/17-03-2022 - Notas.md",
     "AST - Logbook/04-03-2022/04-03-2022 - Notas.md",
     "AST - Logbook/14-03-2022/14-03-2022 - Notas.md",
     "AST - Logbook/15-03-2022/15-03-2022 - Notas.md",
-    "AST - Logbook/16-03-2022/16-03-2022 - Notas.md",
-    "Tasks.md",
-    "Notas.md",
-    "AST - Logbook/17-03-2022/17-03-2022.md"
+    "AST - Logbook/16-03-2022/16-03-2022 - Notas.md"
   ]
 }
