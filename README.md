@@ -8,7 +8,8 @@ All the content is stored in the [AST - Logbook](https://github.com/davidmcarrei
 
 <br>
 
----
-Notes fully optimized for [Obsidian](https://obsidian.md/), hence the funky `[[Tag]]` notation at the *Tags* section in the end of the notes. The tags will aid in the creation of 
+#
+
+Notes fully optimized for [Obsidian](https://obsidian.md/), hence the funky `[[Tag]]` notation at the *Tags* section in the end of the notes. 
 
 
