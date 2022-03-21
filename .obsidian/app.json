@@ -3,7 +3,8 @@
   "spellcheckDictionary": [
     "Ockham",
     "Ockham",
-    "ads"
+    "ads",
+    "&nbsp"
   ],
   "promptDelete": false
 }
