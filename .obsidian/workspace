@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bc622fc47c6c4d1c",
+        "id": "04d55a8ed57e1cec",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,13 +15,13 @@
         }
       },
       {
-        "id": "bde19d1c8119febe",
+        "id": "8ce8b535b20c6dac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "AST - Logbook/Março/22-03-2022/22-03-2022 - Notas.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1a73c81b366b016",
@@ -97,7 +98,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc622fc47c6c4d1c",
+  "active": "04d55a8ed57e1cec",
   "lastOpenFiles": [
     "AST - Logbook/Março/22-03-2022/22-03-2022 - Notas.md",
     "AST - Logbook/Março/20-03-2022/20-03-2022 - Notas.md",
