@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "04d55a8ed57e1cec",
+        "id": "29769a2157a1054d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/Março/22-03-2022/22-03-2022 - Notas.md",
+            "file": "AST - Logbook/Março/23-03-2022/23-03-2022 - Notas.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "8ce8b535b20c6dac",
+        "id": "08676fa2c57577c5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/Março/22-03-2022/22-03-2022 - Notas.md",
-            "mode": "source"
+            "file": "AST - Logbook/Março/23-03-2022/23-03-2022 - Notas.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "loss",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1a73c81b366b016",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AST - Logbook/Março/22-03-2022/22-03-2022 - Notas.md",
+                "file": "AST - Logbook/Março/23-03-2022/23-03-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04d55a8ed57e1cec",
+  "active": "29769a2157a1054d",
   "lastOpenFiles": [
-    "AST - Logbook/Março/22-03-2022/22-03-2022 - Notas.md",
-    "AST - Logbook/Março/20-03-2022/20-03-2022 - Notas.md",
-    "AST - Logbook/Março/19-03-2022/19-03-2022 - Notas.md",
-    "AST - Logbook/Março/18-03-2022/18-03-2022 - Notas.md",
-    "AST - Logbook/Março/17-03-2022/17-03-2022 - Notas.md",
-    "AST - Logbook/Março/16-03-2022/16-03-2022 - Notas.md",
-    "AST - Logbook/Março/21-03-2022/21-03-2022 - Notas.md",
+    "AST - Logbook/Março/23-03-2022/23-03-2022 - Notas.md",
+    "README.md",
+    "AST - Logbook/Março/23-03-2022/23-03-2022.md",
     "AST - Logbook/Março/22-03-2022/22-03-2022.md",
     "AST - Logbook/Março/21-03-2022/21-03-2022.md",
-    "AST - Logbook/Abril/Untitled.md"
+    "AST - Logbook/Março/20-03-2022/20-03-2022.md",
+    "AST - Logbook/Março/19-03-2022/19-03-2022.md",
+    "AST - Logbook/Março/18-03-2022/18-03-2022.md",
+    "AST - Logbook/Março/17-03-2022/17-03-2022.md",
+    "AST - Logbook/Março/14-03-2022/14-03-2022.md"
   ]
 }
