@@ -7,17 +7,20 @@
         "id": "29769a2157a1054d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AST - Logbook/Março/24-03-2022/24-03-2022 - Notas.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "08676fa2c57577c5",
+        "id": "db1db97c70fa27f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/Março/23-03-2022/23-03-2022 - Notas.md",
+            "file": "AST - Logbook/Março/24-03-2022/24-03-2022 - Notas.md",
             "mode": "preview"
           }
         }
@@ -47,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitign",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,12 +59,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1a73c81b366b016",
@@ -77,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AST - Logbook/Março/24-03-2022/24-03-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +100,15 @@
   },
   "active": "29769a2157a1054d",
   "lastOpenFiles": [
-    ".gitignore.md",
     "AST - Logbook/Março/24-03-2022/24-03-2022 - Notas.md",
     "AST - Logbook/Março/25-03-2022/25-03-2022 - Notas.md",
+    "AST - Logbook/Março/18-03-2022/18-03-2022 - Notas.md",
+    ".gitignore.md",
     "AST - Logbook/Março/23-03-2022/23-03-2022 - Notas.md",
     "README.md",
     "AST - Logbook/Março/23-03-2022/23-03-2022.md",
     "AST - Logbook/Março/22-03-2022/22-03-2022.md",
     "AST - Logbook/Março/21-03-2022/21-03-2022.md",
-    "AST - Logbook/Março/20-03-2022/20-03-2022.md",
-    "AST - Logbook/Março/19-03-2022/19-03-2022.md"
+    "AST - Logbook/Março/20-03-2022/20-03-2022.md"
   ]
 }
