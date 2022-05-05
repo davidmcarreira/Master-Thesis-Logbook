@@ -8,5 +8,6 @@
     "validation s",
     "households"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "fileSortOrder": "byModifiedTimeReverse"
 }
