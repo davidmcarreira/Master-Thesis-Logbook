@@ -9,7 +9,8 @@
     "households",
     "Coimbra",
     "Overcrossing",
-    "underfitting"
+    "underfitting",
+    "Thresholding"
   ],
   "promptDelete": false,
   "fileSortOrder": "alphabetical"
