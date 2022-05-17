@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "regression",
+                "query": "\"calibration plot\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
