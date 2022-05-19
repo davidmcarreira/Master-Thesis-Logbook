@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "Maio",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Exercícios",
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +67,6 @@
   "repelStrength": 17.797147385103,
   "linkStrength": 0.915213946117274,
   "linkDistance": 118,
-  "scale": 0.47660123807491583,
-  "close": true
+  "scale": 0.1946645943508861,
+  "close": false
 }

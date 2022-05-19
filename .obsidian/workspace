@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/3. Maio/14-05-2022/14-05-2022 - Notas.md",
-            "mode": "source"
+            "file": "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "z score",
+                "query": "labeled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AST - Logbook/3. Maio/14-05-2022/14-05-2022 - Notas.md",
+                "file": "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "9e5da6bd61377e4e",
   "lastOpenFiles": [
-    "AST - Logbook/3. Maio/14-05-2022/14-05-2022 - Notas.md",
+    "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
+    "AST - Logbook/1. Março/14-03-2022/14-03-2022 - Notas.md",
+    "AST - Logbook/3. Maio/12-05-2022/12-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/05-05-2022/05-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/06-05-2022/06-05-2022 - Notas.md",
-    "AST - Logbook/3. Maio/10-05-2022/10-05-2022 - Notas.md",
+    "AST - Logbook/1. Março/17-03-2022/17-03-2022 - Notas.md",
+    "AST - Logbook/3. Maio/14-05-2022/14-05-2022 - Notas.md",
+    "AST - Logbook/3. Maio/19-05-2022/19-05-2022.md",
     "AST - Logbook/3. Maio/11-05-2022/11-05-2022 - Notas.md",
-    "AST - Logbook/3. Maio/12-05-2022/12-05-2022 - Notas.md",
-    "AST - Logbook/3. Maio/14-05-2022/14-05-2022.md",
-    "AST - Logbook/3. Maio/12-05-2022/12-05-2022.md",
-    "AST - Logbook/1. Março/14-03-2022/14-03-2022 - Notas.md",
-    "AST - Logbook/1. Março/19-03-2022/19-03-2022.md"
+    "AST - Logbook/3. Maio/10-05-2022/10-05-2022 - Notas.md"
   ]
 }
