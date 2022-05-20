@@ -7,8 +7,11 @@
         "id": "39f46745741d6c75",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1a73c81b366b016",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +88,9 @@
   },
   "active": "39f46745741d6c75",
   "lastOpenFiles": [
+    "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/20-05-2022/20-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/20-05-2022/20-05-2022.md",
-    "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/05-05-2022/05-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/14-05-2022/14-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/06-05-2022/06-05-2022 - Notas.md",
