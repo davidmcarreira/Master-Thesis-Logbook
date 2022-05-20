@@ -10,7 +10,8 @@
     "Coimbra",
     "Overcrossing",
     "underfitting",
-    "Thresholding"
+    "Thresholding",
+    "NaN"
   ],
   "promptDelete": false,
   "fileSortOrder": "alphabetical"
