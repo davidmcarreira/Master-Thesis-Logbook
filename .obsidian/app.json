@@ -11,7 +11,9 @@
     "Overcrossing",
     "underfitting",
     "Thresholding",
-    "NaN"
+    "NaN",
+    "backpropagation",
+    "ReLU"
   ],
   "promptDelete": false,
   "fileSortOrder": "alphabetical"
