@@ -14,7 +14,8 @@
     "NaN",
     "backpropagation",
     "ReLU",
-    "Softmax"
+    "Softmax",
+    "MNIST"
   ],
   "promptDelete": false,
   "fileSortOrder": "alphabetical"
