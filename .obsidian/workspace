@@ -9,21 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/3. Maio/20-05-2022/20-05-2022 - Notas.md",
+            "file": "AST - Logbook/3. Maio/23-05-2022/23-05-2022 - Notas.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b9a5c2ae57255dab"
       },
       {
-        "id": "784c74fa845c691b",
+        "id": "1fed9f230a3ffe7d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AST - Logbook/3. Maio/20-05-2022/20-05-2022 - Notas.md",
+            "file": "AST - Logbook/3. Maio/23-05-2022/23-05-2022 - Notas.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "b9a5c2ae57255dab"
       }
     ],
     "direction": "vertical"
@@ -79,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AST - Logbook/3. Maio/20-05-2022/20-05-2022 - Notas.md",
+                "file": "AST - Logbook/3. Maio/23-05-2022/23-05-2022 - Notas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1812aacacd9fe2e7",
+  "active": "1fed9f230a3ffe7d",
   "lastOpenFiles": [
+    "AST - Logbook/3. Maio/23-05-2022/23-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/20-05-2022/20-05-2022 - Notas.md",
+    "AST - Logbook/3. Maio/23-05-2022/23-05-2022.md",
     "AST - Logbook/3. Maio/19-05-2022/19-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/14-05-2022/14-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/12-05-2022/12-05-2022 - Notas.md",
     "AST - Logbook/3. Maio/11-05-2022/11-05-2022 - Notas.md",
     "Report.md",
     "AST - Logbook/3. Maio/10-05-2022/10-05-2022 - Notas.md",
-    "AST - Logbook/3. Maio/06-05-2022/06-05-2022 - Notas.md",
-    "AST - Logbook/3. Maio/12-05-2022/12-05-2022.md",
-    "Reunião.md"
+    "AST - Logbook/3. Maio/06-05-2022/06-05-2022 - Notas.md"
   ]
 }

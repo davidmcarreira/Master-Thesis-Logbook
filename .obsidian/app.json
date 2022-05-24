@@ -13,7 +13,8 @@
     "Thresholding",
     "NaN",
     "backpropagation",
-    "ReLU"
+    "ReLU",
+    "Softmax"
   ],
   "promptDelete": false,
   "fileSortOrder": "alphabetical"
